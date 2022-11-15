@@ -23,6 +23,7 @@ margin: 30px auto;
 
 input[type="submit"]{
     margin-top: 10px;
+    cursor: pointer;
 
 }
 
@@ -31,6 +32,10 @@ width: 35%;
 height: 500px;
 float: left;
 
+}
+
+h2{
+    text-align: center;
 }
 
 #direita{
@@ -60,4 +65,12 @@ tr#titulo{
 td{
 
     padding: 0px 5px;
+}
+
+a{
+    background-color: white;
+    color: black;
+    margin: 0px 5px;
+    text-decoration: none;
+
 }
