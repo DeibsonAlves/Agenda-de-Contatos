@@ -2,7 +2,6 @@
 require_once 'classe-pessoa.php';
 $p=new Pessoa("cruspdo","localhost","root","");
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
